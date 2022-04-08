@@ -1,4 +1,4 @@
-module mermerd
+module https://github.com/genobeardev/mermerd
 
 go 1.17
 
